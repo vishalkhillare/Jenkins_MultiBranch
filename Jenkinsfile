@@ -13,7 +13,7 @@ environment{
     NAME = "piyush"
 }
 tools {
-    maven 'Maven 3.8.4'
+    maven 'mymaven'
 }
 
 stages{
